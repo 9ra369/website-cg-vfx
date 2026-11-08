@@ -59,6 +59,7 @@ const GUIDES = [
       "posts/location-textures-reference-photo-packs.html",
       "posts/filmgrab-film-still-reference-library.html",
       "posts/expanded-cinematography-craig-welsh-blog.html",
+      "posts/nhm-data-portal-collection-specimens.html",
       "posts/the-terrain-domain.html",
       "posts/3d-three-scans.html",
       "posts/wire-wheels-club-027750.html",
@@ -85,6 +86,7 @@ const GUIDES = [
       "posts/the-terrain-domain.html",
       "posts/samuel-krug-hda-ktt-for-houdini.html",
       "posts/valerio-viperino-geospatial-workflows-houdini.html",
+      "posts/valdrada-nyc-digital-twin.html",
     ],
   },
 ];
