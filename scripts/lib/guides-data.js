@@ -81,6 +81,7 @@ const GUIDES = [
       "posts/cgworld-houdini-usd-aurora-innovation.html",
       "posts/the-terrain-domain.html",
       "posts/samuel-krug-hda-ktt-for-houdini.html",
+      "posts/valerio-viperino-geospatial-workflows-houdini.html",
     ],
   },
 ];
