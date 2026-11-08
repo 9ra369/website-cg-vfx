@@ -56,6 +56,7 @@ const GUIDES = [
       "posts/vfx-ai.html",
       "posts/3d-cgtrader-turbosquid.html",
       "posts/hdri-poly-heaven-poliigon.html",
+      "posts/location-textures-reference-photo-packs.html",
       "posts/the-terrain-domain.html",
       "posts/3d-three-scans.html",
       "posts/wire-wheels-club-027750.html",
